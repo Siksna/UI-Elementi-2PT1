@@ -21,7 +21,7 @@ public class VardaParadisana : MonoBehaviour {
 
 	//Mainígais, kurá ieglabás tekstu no input field
 	private string teksts;
-	private string[] varianti = {"Sveiki","Atá","Uzredześanos","Adios","Jauku dienu","Prieks tevi redzet"};
+	private string[] varianti = {"Sveiki ","Atā ","Uz redzēšanos ","Adios ","Jauku dienu ","Prieks tevi redzēt "};
 	//Uzglaba random nogenereto skaitli
 	int nejausais;
 	//Lauks no kura ievada tekstu
